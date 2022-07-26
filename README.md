@@ -1,2 +1,2 @@
-# doctor-appointment-ui
-Doctor Appointment Booking: A place where patients can search and book appointment from preferred doctor/hospital - UI
+# vehicle-rental-ui
+Vehicle Rental System: Website where customers can search and rent the bikes/cars of their choice - UI Project
